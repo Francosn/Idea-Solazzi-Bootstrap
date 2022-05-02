@@ -26,3 +26,18 @@
     height: 550px;
     transition: all 2s;
 }
+.navbar {
+    color: white;
+}
+.carousel-item {
+    width: 500px;
+    height: 900px;
+}
+.vianda1 {
+    width: 900px;
+    height: 400px;
+    justify-content: center;
+}
+.list-group {
+    color: violet;
+}
