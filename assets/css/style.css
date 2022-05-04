@@ -1,43 +1,31 @@
 .encabezado {
-    background-color: black;
-    color: green;
+  background-color: #000;
 }
+
+.encabezado h1 {
+  color: green;
+}
+
 .principal {
-    background-color: black;
-    color: white;
+  background-color: #000;
+  color: #fff;
 }
-.pie {
-    background-color: black;
-    color: white;
+
+.principal h2 {
+  font-size: 38px;
 }
-.lugar {
-    padding: 50px;
+
+.principal p {
+  font-size: large;
 }
-.lugar:hover{
-    transform: scale(1.2);
-    transition: 3s;
+
+.principal img {
+  width: 400px;
+  height: 600px;
 }
-.ubicacion {
-    width: 300px;
-    height: 400px;
+
+.pie2 {
+  background-color: #000;
+  color: #fff;
 }
-.ubicacion:hover {
-    width: 400px;
-    height: 550px;
-    transition: all 2s;
-}
-.navbar {
-    color: white;
-}
-.carousel-item {
-    width: 500px;
-    height: 900px;
-}
-.vianda1 {
-    width: 900px;
-    height: 400px;
-    justify-content: center;
-}
-.list-group {
-    color: violet;
-}
+/*# sourceMappingURL=style.css.map */
