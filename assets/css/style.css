@@ -1,31 +1,30 @@
-.encabezado {
-  background-color: #000;
-}
-
-.encabezado h1 {
+.encabezadoI {
+  background-color: black;
   color: green;
 }
 
-.principal {
-  background-color: #000;
-  color: #fff;
+.principalI {
+  background-color: black;
+  color: white;
 }
 
-.principal h2 {
-  font-size: 38px;
+.pieI {
+  background-color: black;
+  color: white;
 }
 
-.principal p {
-  font-size: large;
+.encabezadoC {
+  background-color: black;
+  color: green;
 }
 
-.principal img {
-  width: 400px;
-  height: 600px;
+.principalC {
+  background-color: black;
+  color: white;
 }
 
-.pie2 {
-  background-color: #000;
-  color: #fff;
+.pieC {
+  background-color: black;
+  color: white;
 }
 /*# sourceMappingURL=style.css.map */
